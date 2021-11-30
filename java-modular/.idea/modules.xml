@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/digital.com.br.Cliente/digital.com.br.Cliente.iml" filepath="$PROJECT_DIR$/digital.com.br.Cliente/digital.com.br.Cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digital.com.br.core/digital.com.br.core.iml" filepath="$PROJECT_DIR$/digital.com.br.core/digital.com.br.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digital.com.br.utils/digital.com.br.utils.iml" filepath="$PROJECT_DIR$/digital.com.br.utils/digital.com.br.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-modular.iml" filepath="$PROJECT_DIR$/java-modular.iml" />
+    </modules>
+  </component>
+</project>
